@@ -11,7 +11,7 @@ function ÜberUns() {
               <img src={p4} alt="..." className="w-full" />
             </div>
             <div className="items-center content-center text-center mx-4 sm:mx-8 md:mx-16 lg:mx-32 my-12 indent-3 sm:indent-4 md:indent-8 max-w-5xl">
-              <h5 className="text-2xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-bold text-[#354259]">
+              <h5 className="text-2xl sm:text-2xl md:text-3xl lg:text-3xl xl:text-4xl font-bold text-[#354259]">
                 ÜBER UNS
               </h5>
               <p className=" leading-6 sm:leading-7 md:leading-8 lg:leading-relaxed text-base sm:text-lg md:text-xl lg:text-xl mt-6 mx-4 sm:mt-8 md:mt-10 font-medium text-[#354259] text-justify indent-10">
