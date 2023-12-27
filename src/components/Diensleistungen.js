@@ -1,13 +1,13 @@
 import Schlüssel from "../assets/Schlüssel.jpg";
 import Uhr from "../assets/Uhr.jpg";
 import Handy from "../assets/Handy.jpg";
-import AutoKey from "../assets/AutoKey.jpg";
+import Autokey from "../assets/Autokey.jpg";
 
 const callouts = [
   {
     name: "AUTOSCHLÜSSEL SERVICE",
     description: "Fahrzeugschlüssel-Dienstleistungen für Ihre Autos",
-    imageSrc: AutoKey,
+    imageSrc: Autokey,
     href: "#",
   },
   {
