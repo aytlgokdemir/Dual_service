@@ -18,6 +18,10 @@ body {
   cursor: pointer;
 }
 
+.custom-max-width {
+  max-width: 100%; /* veya başka bir değer */
+}
+
 
 @media (max-width: 768px) {
 

@@ -27,7 +27,7 @@ function Header() {
 
   return (
     <header className="header bg-gray-100">
-      <nav className="mx-auto flex max-w-7xl px-4 sm:px-6 lg:px-8 items-center justify-between border-2 border-b-gray-500">
+      <nav className="mx-auto flex max-w-7xl custom-max-width px-4 sm:px-6 lg:px-8 items-center justify-between border-2 border-b-gray-500">
         <div className="logo flex lg:flex-1 ml-12">
           <a href="/" className="-m-7">
             <img
