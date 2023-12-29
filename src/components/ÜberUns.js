@@ -8,7 +8,7 @@ function ÜberUns() {
         <div className="container">
           <div className="leftSide w-full h-full">
             <div className="mt-12">
-              <img src={p4} alt="..." className="w-full" />
+              <img src={p4} alt="..." className="w-full h-auto" />
             </div>
             <div className="items-center content-center text-center mx-4 sm:mx-8 md:mx-16 lg:mx-32 my-12 indent-3 sm:indent-4 md:indent-8 max-w-5xl">
               <h5 className="text-2xl sm:text-2xl md:text-3xl lg:text-3xl xl:text-4xl font-bold text-[#354259]">
