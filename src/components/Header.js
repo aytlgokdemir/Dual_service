@@ -51,7 +51,7 @@ function Header() {
           </NavLink>
           {showServiceLink && (
             <Link
-              to="diensleistungen"
+              to="dienstleistungen"
               spy={true}
               smooth={true}
               duration={500}
@@ -125,7 +125,7 @@ function Header() {
           {/* Mobile menu content */}
           <div className="p-7">
             <Link
-              to="diensleistungen"
+              to="dienstleistungen"
               spy={true}
               smooth={true}
               duration={500}
